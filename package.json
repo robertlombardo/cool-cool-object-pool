@@ -1,0 +1,24 @@
+{
+  "name": "cool-cool-object-pool",
+  "version": "1.0.0",
+  "description": "Minimalistic object pooling module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robertlombardo/cool-cool-object-pool.git"
+  },
+  "keywords": [
+    "object",
+    "pool",
+    "pooling",
+  ],
+  "author": "Robert Lombardo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robertlombardo/cool-cool-object-pool/issues"
+  },
+  "homepage": "https://github.com/robertlombardo/cool-cool-object-pool#readme"
+}
